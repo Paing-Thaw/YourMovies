@@ -6,6 +6,10 @@ target 'YourMovies' do
   use_frameworks!
 
   # Pods for YourMovies
+pod 'RealmSwift' 
 pod 'Alamofire', '~> 4.4'
 pod 'SwiftyJSON'
+pod 'SDWebImage'
+
+
 end
